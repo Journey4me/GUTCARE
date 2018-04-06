@@ -1,0 +1,129 @@
+tax_name,tax_rank,count,count_norm,taxon,parent
+root,root,19997,1000000,1,0
+Bacteria,superkingdom,19997,1000000,2,131567
+Campylobacter,genus,209,10451,194,72294
+Rhizobiales,order,5,250,356,28211
+Ochrobactrum,genus,5,250,528,118882
+Campylobacter ureolyticus,species,209,10451,827,194
+Porphyromonas,genus,111,5550,836,171551
+Prevotella,genus,2203,110166,838,171552
+Bacteroidetes,phylum,2505,125268,976,68336
+Proteobacteria,phylum,225,11251,1224,2
+Firmicutes,phylum,12369,618542,1239,2
+Finegoldia magna,species,3829,191478,1260,150022
+Staphylococcus,genus,22,1100,1279,90964
+Enterococcus,genus,68,3400,1350,81852
+Enterococcus faecalis,species,68,3400,1351,1350
+Aerococcus,genus,34,1700,1375,186827
+Aerococcus urinae,species,34,1700,1376,1375
+Atopobium,genus,16,800,1380,84107
+Bacillales,order,22,1100,1385,91061
+Corynebacteriaceae,family,4390,219532,1653,85007
+Actinomyces,genus,153,7651,1654,2049
+Corynebacterium,genus,4390,219532,1716,1653
+Propionibacterium,genus,2,100,1743,31957
+Propionibacterium acnes,species,2,100,1747,1743
+Actinobacteria,class,4898,244936,1760,201174
+Actinomycetales,order,4811,240586,2037,85003
+Actinomycetaceae,family,393,19652,2049,85005
+Mobiluncus,genus,7,350,2050,279916
+Mobiluncus curtisii,species,7,350,2051,2050
+Peptococcus,genus,18,900,2740,186807
+Alphaproteobacteria,class,5,250,28211,1224
+Betaproteobacteria,class,11,550,28216,1224
+Epsilonproteobacteria,class,209,10451,29547,68525
+Bifidobacteriaceae,family,71,3550,31953,85004
+Propionibacteriaceae,family,28,1400,31957,85009
+Veillonellaceae,family,1101,55058,31977,909929
+Propionimicrobium lymphophilum,species,26,1300,33012,203133
+Anaerococcus hydrogenalis,species,252,12601,33029,165779
+Peptoniphilus lacrimalis,species,49,2450,33031,162289
+Anaerococcus prevotii,species,2,100,33034,165779
+Anaerococcus vaginalis,species,369,18452,33037,165779
+Dialister,genus,1042,52107,39948,31977
+Sutterella,genus,4,200,40544,995019
+Anaerococcus octavius,species,61,3050,54007,165779
+Actinobaculum schaalii,species,6,300,59505,76833
+Bacteroidetes/Chlorobi group,superphylum,2505,125268,68336,2
+delta/epsilon subdivisions,subphylum,209,10451,68525,1224
+Campylobacteraceae,family,209,10451,72294,213849
+Actinobaculum,genus,146,7301,76833,2049
+Burkholderiales,order,11,550,80840,28216
+Comamonadaceae,family,7,350,80864,80840
+Delftia,genus,7,350,80865,80864
+Enterococcaceae,family,68,3400,81852,186826
+Coriobacteriaceae,family,16,800,84107,255727
+Coriobacteridae,subclass,16,800,84998,1760
+Coriobacteriales,order,16,800,84999,84998
+Actinobacteridae,subclass,4882,244136,85003,1760
+Bifidobacteriales,order,71,3550,85004,85003
+Actinomycineae,suborder,393,19652,85005,2037
+Corynebacterineae,suborder,4390,219532,85007,2037
+Propionibacterineae,suborder,28,1400,85009,2037
+Staphylococcaceae,family,22,1100,90964,1385
+Bacilli,class,684,34205,91061,1239
+Brucellaceae,family,5,250,118882,356
+Corynebacterium capitovis,species,5,250,131081,1716
+Actinomyces radingae,species,9,450,131110,1654
+Actinomyces turicensis,species,53,2650,131111,1654
+cellular organisms,no_rank,19997,1000000,131567,1
+Aerosphaera,genus,560,28004,137460,186830
+Aerosphaera taetra,species,560,28004,137461,137460
+Finegoldia,genus,3837,191878,150022,543310
+Peptoniphilus,genus,3384,169225,162289,543310
+Anaerococcus,genus,3284,164224,165779,543310
+Bacteroidales,order,2505,125268,171549,200643
+Porphyromonadaceae,family,111,5550,171551,171549
+Prevotellaceae,family,2394,119717,171552,171549
+Varibaculum,genus,87,4350,184869,2049
+Clostridia,class,10584,529279,186801,1239
+Clostridiales,order,10584,529279,186802,186801
+Peptococcaceae,family,18,900,186807,186802
+unclassified Clostridiales,no_rank,6,300,186813,186802
+Lactobacillales,order,662,33104,186826,91061
+Aerococcaceae,family,34,1700,186827,186826
+unclassified Lactobacillales,no_rank,560,28004,186830,186826
+Bacteroidia,class,2505,125268,200643,976
+Actinobacteria,phylum,4898,244936,201174,2
+Actinobaculum massiliense,species,140,7001,202789,76833
+Propionimicrobium,genus,26,1300,203133,31957
+Campylobacterales,order,209,10451,213849,29547
+Peptoniphilus sp. 2002-38328,species,2247,112366,226530,162289
+Actinomyces sp. 2002-2301122,species,91,4550,226534,1654
+Sutterella stercoricanis,species,4,200,234908,40544
+Fastidiosipila,genus,55,2750,236752,541000
+Fastidiosipila sanguinis,species,55,2750,236753,236752
+Coriobacterineae,suborder,16,800,255727,84999
+Mobiluncus/Falcivibrio group,no_rank,7,350,279916,2049
+Porphyromonas uenonis,species,5,250,281920,836
+Dialister propionicifaciens,species,370,18502,308994,39948
+Dialister micraerophilus,species,286,14302,309120,39948
+Howardella,genus,6,300,404402,186813
+Anaerococcus murdochii,species,2073,103665,411577,165779
+Alloscardovia,genus,71,3550,419014,31953
+Alloscardovia omnicolens,species,71,3550,419015,419014
+Dialister succinatiphilus,species,384,19202,487173,39948
+Porphyromonas bennonis,species,106,5300,501496,836
+Clostridiales incertae sedis,no_rank,10505,525328,538999,186802
+Ruminococcaceae,family,55,2750,541000,186802
+Clostridiales Family XI. Incertae Sedis,family,10505,525328,543310,538999
+Corynebacterium freiburgense,species,6,300,556548,1716
+Delftia lacustris,species,7,350,558537,80865
+Ochrobactrum sp. SCTS14,species,5,250,664195,528
+Peptoniphilus sp. oral taxon 375,species,54,2700,712430,162289
+Negativicoccus,genus,59,2950,909928,31977
+Selenomonadales,order,1101,55058,909929,909932
+Negativicutes,class,1101,55058,909932,1239
+Sutterellaceae,family,4,200,995019,80840
+Peptoniphilus sp. BV3AC2,species,92,4600,1111133,162289
+Varibaculum sp. CCUG 45114,species,87,4350,1177731,184869
+Atopobium sp. MVA9,species,16,800,1219586,1380
+Prevotella sp. S4-10,species,114,5700,1219628,838
+Negativicoccus sp. S5-A15,species,59,2950,1230739,909928
+Corynebacterium sp. jw37,species,377,18852,1234514,1716
+Anaerococcus sp. S8 87-3,species,527,26353,1330235,165779
+Finegoldia sp. S8 F7,species,8,400,1330238,150022
+Peptococcus sp. S9 Pr-12,species,18,900,1344335,2740
+Peptoniphilus sp. S9 PR-13,species,942,47107,1344339,162289
+Corynebacterium sp. 713182/2012,species,6,300,1380019,1716
+Staphylococcus sp. 3348O2,species,22,1100,1459583,1279
